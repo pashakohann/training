@@ -1,4 +1,4 @@
 function register(ligin,password) {
-return 'Account was registered' + password + " " + login;
+return 'Account was registered' + password + "" + login;
 }
 
